@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="mpmc_quiz_app">MPMC Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="check">Check</string>
+</resources>
